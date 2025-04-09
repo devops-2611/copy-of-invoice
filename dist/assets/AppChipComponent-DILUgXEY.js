@@ -1,0 +1,1 @@
+import{j as s}from"./index-BGPQORr6.js";import{g as i}from"./helperFuntions-IpEH5JRM.js";import{C as l}from"./MUIThemeProvider-DYjjTKgw.js";const m=({value:o})=>{if(!o)return null;const{backgroundColor:r,textColor:t}=i(o);return s.jsx(l,{label:o,style:{backgroundColor:r,color:t},size:"small",variant:"filled"})};export{m as A};
